@@ -1,0 +1,6 @@
+streamlit==1.28.1
+opencv-python-headless==4.10.0.84
+pillow==10.3.0  # CRITICAL: This fixes the Python 3.13 error
+numpy==1.26.4
+pandas==2.2.1
+plotly==5.19.0
