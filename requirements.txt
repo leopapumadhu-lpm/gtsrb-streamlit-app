@@ -1,0 +1,8 @@
+streamlit==1.52.2
+tensorflow-cpu==2.20.0
+numpy
+pandas
+matplotlib
+seaborn
+pillow
+gtts==2.5.4
